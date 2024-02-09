@@ -10,7 +10,7 @@ import UIKit
 
 
 struct WeatherModel {
-    var city__: String
+    var city: String
     var description: String
     var weatherIcon: UIImage?
     var temperature: String
